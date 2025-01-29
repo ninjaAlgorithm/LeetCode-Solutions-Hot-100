@@ -1,7 +1,7 @@
 
 # LeetCode 热题 HOT 100 题解精析 🧮
 
-[![GitHub stars](https://img.shields.io/github/stars/yourname/leetcode-hot100?style=flat-square)](https://github.com/yourname/leetcode-hot100)
+[![GitHub stars](https://img.shields.io/github/stars/ninjaAlgorithm/LeetCode-Solutions-Hot-100?style=flat-square)](https://github.com/ninjaAlgorithm/LeetCode-Solutions-Hot-100)
 [![公众号](https://img.shields.io/badge/公众号-忍者算法-FF6B35?style=flat-square&logo=wechat)](公众号二维码链接)
 ![进度](https://img.shields.io/badge/解题进度-85%25-4BC0D9?style=flat-square)
 
@@ -39,7 +39,7 @@
 </div>
 
 ✅ **系统化分类** - 按算法类型建立知识树  
-✅ **多解法对比** - 提供Java/Python/Go实现  
+✅ **多解法对比** - 提供Java/Python/Go/JavaScript/C++实现  
 ✅ **复杂度分析** - 时间/空间消耗详细说明  
 ✅ **高频更新** - 每周更新5+题解
 
@@ -64,6 +64,15 @@
 
 ## 🛠️ 维护规范
 
+欢迎贡献你的题解！请按照以下步骤进行：
+
+1. Fork 本仓库。
+2. 创建一个新的分支。
+3. 提交你的题解。
+4. 创建一个 Pull Request。
+
+请确保你的题解格式与现有题解一致，并包含清晰的思路和代码实现。
+
 ## 🌐 多语言支持
 <details>
 <summary>查看不同语言解法</summary>
@@ -77,4 +86,11 @@
 
 **数据统计**  
 ![更新频率](https://img.shields.io/badge/更新频率-每周三次-brightgreen)  
-![最后更新](https://img.shields.io/github/last-commit/yourname/leetcode-hot100)
+
+## 关键词
+
+LeetCode 题解, 算法, 数据结构, 哈希, 动态规划, 双指针, 二叉树, 回溯, 编程, 面试准备
+
+![GitHub stars](https://img.shields.io/github/stars/ninjaAlgorithm/LeetCode-Solutions-Hot-100?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ninjaAlgorithm/LeetCode-Solutions-Hot-100?style=social)
+![License](https://img.shields.io/github/license/ninjaAlgorithm/LeetCode-Solutions-Hot-100)
