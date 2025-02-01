@@ -180,7 +180,7 @@
 
 <div align="center">
   <a href="https://github.com/ninjaAlgorithm">
-    <img src="./assets/qrcode-wechat.png" width="200" alt="微信公众号">
+    <img src="./assets/qrcode-wechat.png" width="500" alt="微信公众号">
   </a>
   <p>
     扫码关注公众号，解锁每日【忍者级算法秘籍】<br>
