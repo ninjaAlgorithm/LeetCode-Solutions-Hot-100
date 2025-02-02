@@ -17,7 +17,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
 <div align="center">
-  <img src="assets/leetcode-roadmap.png" width="800" alt="LeetCode 学习路线图">
+  <img src="./assets/leetcode-roadmap.png" width="800" alt="LeetCode 热题题解学习路线图">
 </div>
 
 ---
